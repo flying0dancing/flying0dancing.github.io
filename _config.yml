@@ -1,0 +1,8 @@
+title: Flying0dancing.GitHub.io
+description: flying0dancing blog
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-merlot
+
+gems:
+  - jekyll-mentions
